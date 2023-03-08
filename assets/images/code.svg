@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with matplotlib (http://matplotlib.sourceforge.net/) -->
+
+<svg
+   width="349pt"
+   height="349pt"
+   viewBox="0 0 349 349"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="code.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs187">
+    <defs
+       id="defs14">
+      <clipPath
+         id="pf8859f6aad91b7e591ccd839dbce38b9">
+        <rect
+           x="7.1999998"
+           y="7.1999998"
+           width="334.79999"
+           height="334.79999"
+           id="rect11" />
+      </clipPath>
+    </defs>
+    <defs
+       id="defs115">
+      <path
+         id="coll0_0_a0b82d2682f3d8e3d8556fc4a5d6a3b4"
+         d="M 0,0 C 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 Z" />
+    </defs>
+  </defs>
+  <sodipodi:namedview
+     id="namedview185"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="0.66177295"
+     inkscape:cx="197.19754"
+     inkscape:cy="162.44242"
+     inkscape:window-width="954"
+     inkscape:window-height="1054"
+     inkscape:window-x="960"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <filter
+     id="colorAdd">
+    <feComposite
+       in="SourceGraphic"
+       in2="BackgroundImage"
+       operator="arithmetic"
+       k2="1"
+       k3="1"
+       id="feComposite2" />
+  </filter>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#09b500;stroke:#09b300;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+     x="18.800045"
+     y="244.89999"
+     id="text3273"><tspan
+       sodipodi:role="line"
+       id="tspan3271"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;fill:#09b500;fill-opacity:1;stroke:#09b300;stroke-opacity:1"
+       x="18.800045"
+       y="244.89999">&lt;/&gt;</tspan></text>
+</svg>
